@@ -1,0 +1,1 @@
+export const uniqueAssetName = 'NNNM9990088811'
